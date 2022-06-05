@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navigation{
+background-image: url(../../../images/omar-prestwich-jLEGurepDco-unsplash.jpg);
+background-position: center;
+background-size: cover;
+height: 100vh;
+width: 100%;
+}
+
+.navbar ul{
+    float: right;
+    list-style: none;
+    padding-right: 20px;
+}
+
+.navbar ul li{
+    float: left;
+    padding: 0 20px 0;
+    padding-top: 20px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    transition: 1s ease;
+}
+
+.navbar ul li a:hover{
+    color: rgb(68, 67, 70);
+}
+
+.navbar h1{
+    padding-top: 12px;
+    font-size: 30px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+.body-text{
+    margin-top: 170px;
+    margin-left: 20px;
+}
+
+.body-text h4{
+    font-size: 22px;
+    color: #fff;
+}
+
+.body-text p{
+    font-size: 35px;
+    padding-top: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.body-text a{
+    color: #fff;
+}
+
+/*-------------section2----------*/
+
+.main{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.main img{
+    height: 100vh;
+width: 100%;
+}
+
+.main h3{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.main p{
+    padding-top: 10px;
+    font-size: 19px;
+}
+
+.main a{
+    color: #000;
+}
+
+.left-img img{
+    margin-top: 40px;
+    width: 49%;
+    height: 100vh;
+    float: right;
+}
+
+.right-img img{
+    margin-top: 40px;
+    width: 49%;
+    height: 100vh;
+}
+
+.left-text{
+    float: right;
+    padding-right: 160px;
+    padding-top: 20px;
+}
+
+.left-text h4{
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.left-text p{
+    font-size: 18px;
+}
+
+.right-text{
+    padding-top: 20px;
+}
+
+.right-text h4{
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.right-text p{
+    font-size: 18px;
+}
+
+/*------------section3-----------*/
+
+.images{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.left-pic img{
+    width: 47%;
+    height: 80vh;
+    float: right;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.right-pic img{
+    width: 47%;
+    height: 80vh;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+
+.left-prise{
+    padding-top: 20px;
+    float: right;
+    padding-right: 280px;
+}
+
+.left-prise span{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.left-prise h6{
+    font-size: 12px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+
+.right-prise{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.right-prise span{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.right-prise h6{
+    font-size: 12px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+
+
+.big-img{
+    margin-top: 60px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+
+.big-img img{
+    width: 100%;
+    height: 100vh;
+}
+
+.big-img h1{
+    font-size: 27px;
+    padding-top: 20px;
+}
+
+.big-img p{
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+/*-----------section4----------*/
+
+.footer{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.footer h3{
+    padding-left: 60px;
+}
+
+.footer h3 a{
+    color: #000;
+    text-decoration: none;
+}
+
+.foot{
+    margin-top: 20px;
+}
+
+.foot input{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.foot h4{
+padding-left: 20px;
+}
